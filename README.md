@@ -116,3 +116,6 @@
       <details open><summary>Repositories from star lists</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
       <details open><summary>Languages from star lists</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev)](https://github.com/Pineda-Dev/github-readme-stats)
