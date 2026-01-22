@@ -16,7 +16,7 @@
 
 <strong>Talking about Personal Stuffs:</strong>
 
-<ul style="margin-left: 20px; display: inline-block; text-align: left;">
+<ul style="margin-left: 50px; display: inline-block; text-align: left;">
   <li>👨‍🏛&nbsp;&nbsp;I am currently a student of <b>ESIT</b>.</li>
   <li>💻&nbsp;&nbsp;Major is <b>Open Source Software Development</b>.</li>
   <li>🌱&nbsp;&nbsp;I'm currently learning <b>Web development and English</b>.</li>
