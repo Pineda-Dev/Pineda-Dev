@@ -10,18 +10,20 @@
 
 <hr style="width:80%;">
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="250"/>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="200"/>
 
 <div align="center">
 
 <strong>Talking about Personal Stuffs:</strong>
 
-- 👨‍🏛 I am currently a student of **ESIT**.
-- 💻 Major is **Open Source Software Development**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies include **Exercise, Reading, and Anime**.
-- 📫 How to reach me: **elmer.reyes.pineda@gmail.com**.
-- 💬 If you have any questions, **just ask me**.
+<ul style="margin-left: 20px; display: inline-block; text-align: left;">
+  <li>👨‍🏛&nbsp;&nbsp;I am currently a student of <b>ESIT</b>.</li>
+  <li>💻&nbsp;&nbsp;Major is <b>Open Source Software Development</b>.</li>
+  <li>🌱&nbsp;&nbsp;I'm currently learning <b>Web development and English</b>.</li>
+  <li>🤔&nbsp;&nbsp;My hobbies include <b>Exercise, Reading, and Anime</b>.</li>
+  <li>📫&nbsp;&nbsp;How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</li>
+  <li>💬&nbsp;&nbsp;If you have any questions, <b>just ask me</b>.</li>
+</ul>
 
 </div>
 
