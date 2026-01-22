@@ -10,12 +10,9 @@
 
 <hr style="width:80%;">
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="200"/>
-    </td>
-    <td align="center">
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="200"/>
+
+<div align="center">
 
 <strong>Talking about Personal Stuffs:</strong>
 
@@ -26,9 +23,10 @@
 - 📫 How to reach me: **elmer.reyes.pineda@gmail.com**.
 - 💬 If you have any questions, **just ask me**.
 
-    </td>
-  </tr>
-</table>
+</div>
+
+<br clear="left"/>
+
 
 <hr style="width:80%;">
 
