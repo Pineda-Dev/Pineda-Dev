@@ -115,6 +115,31 @@
 
 
 
+<hr style="width:80%;">
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td width="260" align="left">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="250">
+    </td>
+    <td align="left">
+      <strong>Talking about Personal Stuffs:</strong><br><br>
+      🏦 I am currently a student of <b>ESIT</b>.<br>
+      💻 Major is <b>Open Source Software Development</b>.<br>
+      🌱 I'm currently learning <b>Web development and English</b>.<br>
+      🤔 My hobbies include <b>Exercise, Reading, and Anime</b>.<br>
+      📫 How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.<br>
+      💬 If you have any questions, <b>just ask me</b>.
+    </td>
+  </tr>
+</table>
+
 
 
 
