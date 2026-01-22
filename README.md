@@ -122,6 +122,22 @@
 
 
 
+<a href="https://github.com/Pineda-Dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pineda-Dev&&theme=radicalrepo=github-readme-stats" />
+</a>
+<a href="https://github.com/Pineda-Dev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pineda-Dev&&theme=radicalrepo=convoychat" />
+</a>
+
+
+
+
+
+<hr style="width:80%;">
+
+
+
+
    <td colspan="2" align="center">
       <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
       <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
