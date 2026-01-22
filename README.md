@@ -123,4 +123,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineda-Dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical)
