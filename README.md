@@ -102,6 +102,26 @@
 
 <hr style="width:80%;">
 
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical" width="420">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical" width="420">
+    </td>
+  </tr>
+</table>
+
+
+
+<hr style="width:80%;">
+
+
+
    <td colspan="2" align="center">
       <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
       <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
@@ -118,20 +138,3 @@
       <img width="900" height="1" alt="">
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical" width="420">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical" width="420">
-    </td>
-  </tr>
-</table>
