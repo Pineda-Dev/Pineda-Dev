@@ -16,14 +16,32 @@
 
 <strong>Talking about Personal Stuffs:</strong>
 
-<ul style="list-style-type: none; margin: 0; padding: 0; display: inline-block; text-align: left;">
-  <li>👨‍🏛&nbsp;&nbsp;I am currently a student of <b>ESIT</b>.</li>
-  <li>💻&nbsp;&nbsp;Major is <b>Open Source Software Development</b>.</li>
-  <li>🌱&nbsp;&nbsp;I'm currently learning <b>Web development and English</b>.</li>
-  <li>🤔&nbsp;&nbsp;My hobbies include <b>Exercise, Reading, and Anime</b>.</li>
-  <li>📫&nbsp;&nbsp;How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</li>
-  <li>💬&nbsp;&nbsp;If you have any questions, <b>just ask me</b>.</li>
-</ul>
+<table>
+  <tr>
+    <td>👨‍🏛</td>
+    <td>I am currently a student of <b>ESIT</b>.</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>Major is <b>Open Source Software Development</b>.</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>I'm currently learning <b>Web development and English</b>.</td>
+  </tr>
+  <tr>
+    <td>🤔</td>
+    <td>My hobbies include <b>Exercise, Reading, and Anime</b>.</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td>If you have any questions, <b>just ask me</b>.</td>
+  </tr>
+</table>
 
 </div>
 
