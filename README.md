@@ -124,3 +124,14 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical" width="420">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=radical" width="420">
+    </td>
+  </tr>
+</table>
