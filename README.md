@@ -12,7 +12,7 @@
 
 <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="200"/>
 
-<div align="right">
+<div align="center">
 
 <strong>Talking about Personal Stuffs:</strong>
 
