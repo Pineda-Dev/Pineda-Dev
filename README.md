@@ -16,14 +16,12 @@
 
 <strong>Talking about Personal Stuffs:</strong>
 
-<ul style="list-style-type: none; margin: 0; padding: 0; display: inline-block; text-align: left;">
-  <li>👨‍🏛&nbsp;&nbsp;I am currently a student of <b>ESIT</b>.</li>
-  <li>💻&nbsp;&nbsp;Major is <b>Open Source Software Development</b>.</li>
-  <li>🌱&nbsp;&nbsp;I'm currently learning <b>Web development and English</b>.</li>
-  <li>🤔&nbsp;&nbsp;My hobbies include <b>Exercise, Reading, and Anime</b>.</li>
-  <li>📫&nbsp;&nbsp;How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</li>
-  <li>💬&nbsp;&nbsp;If you have any questions, <b>just ask me</b>.</li>
-</ul>
+<p>👨‍🏛&nbsp;&nbsp;I am currently a student of <b>ESIT</b>.</p>
+<p>💻&nbsp;&nbsp;Major is <b>Open Source Software Development</b>.</p>
+<p>🌱&nbsp;&nbsp;I'm currently learning <b>Web development and English</b>.</p>
+<p>🤔&nbsp;&nbsp;My hobbies include <b>Exercise, Reading, and Anime</b>.</p>
+<p>📫&nbsp;&nbsp;How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</p>
+<p>💬&nbsp;&nbsp;If you have any questions, <b>just ask me</b>.</p>
 
 </div>
 
