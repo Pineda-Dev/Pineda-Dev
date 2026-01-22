@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td>👨‍🏛</td>
+    <td>🏦</td>
     <td>I am currently a student of <b>ESIT</b>.</td>
   </tr>
   <tr>
@@ -46,6 +46,81 @@
 </div>
 
 <br clear="left"/>
+
+
+<hr style="width:80%;">
+
+
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="250"/>
+
+<div align="center">
+
+<strong>Talking about Personal Stuffs:</strong>
+
+<table>
+  <tr>
+    <td>🏦 I am currently a student of <b>ESIT</b>.</td>
+  </tr>
+  <tr>
+    <td>💻 Major is <b>Open Source Software Development</b>.</td>
+  </tr>
+  <tr>
+    <td>🌱 I'm currently learning <b>Web development and English</b>.</td>
+  </tr>
+  <tr>
+    <td>🤔 My hobbies include <b>Exercise, Reading, and Anime</b>.</td>
+  </tr>
+  <tr>
+    <td>📫 How to reach me: <b>elmer.reyes.pineda@gmail.com</b>.</td>
+  </tr>
+  <tr>
+    <td>💬 If you have any questions, <b>just ask me</b>.</td>
+  </tr>
+</table>
+
+</div>
+
+<br clear="left"/>
+
+
+
+
+
+<hr style="width:80%;">
+
+
+
+
+
+
+<table>
+  <tr>
+    <td width="260">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd5eHd6YzhpODJnNTMycHcxZXcxdjlwa2F5YTIybjdhaXRnd2x5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fY1PpTDOPs1qOiiY9/giphy.gif" width="250"/>
+    </td>
+    <td>
+
+<strong>Talking about Personal Stuffs:</strong>
+
+🏦 I am currently a student of <b>ESIT</b><br>
+💻 Major is <b>Open Source Software Development</b><br>
+🌱 I'm currently learning <b>Web development and English</b><br>
+🤔 My hobbies include <b>Exercise, Reading, and Anime</b><br>
+📫 How to reach me: <b>elmer.reyes.pineda@gmail.com</b><br>
+💬 If you have any questions, <b>just ask me</b>
+
+    
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
 <hr style="width:80%;">
@@ -99,7 +174,7 @@
 ![QA Testing](https://img.shields.io/badge/QA%20Testing-9333ea?style=for-the-badge)
 ![Freelance Projects](https://img.shields.io/badge/Freelance%20Projects-16a34a?style=for-the-badge)
 
-
+<hr style="width:80%;">
 
    <td colspan="2" align="center">
       <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
@@ -108,6 +183,8 @@
       <details><summary>Default algorithm (with details)</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
+
+<hr style="width:80%;">
 
 <td colspan="2" align="center">
       <details open><summary>Repositories from star lists</summary><img src="https://github.com/Pineda-Dev/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
