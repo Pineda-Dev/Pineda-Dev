@@ -119,3 +119,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev)](https://github.com/Pineda-Dev/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=radical)
