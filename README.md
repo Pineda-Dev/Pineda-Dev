@@ -120,6 +120,6 @@
 
 <hr style="width:80%;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=dark)
