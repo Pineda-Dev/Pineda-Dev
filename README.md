@@ -119,7 +119,3 @@
 
 
 <hr style="width:80%;">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=dark)
