@@ -105,29 +105,29 @@
 
 
 
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=dark">
+      <img src="https://github-readme-stats-wine-five-83.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=dark">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=dark" width="420">
+      <img src="https://github-readme-stats-wine-five-83.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=dark" width="420">
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
 
 
 
 <hr style="width:80%;">
 
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pineda-Dev&show_icons=true&theme=dark&cache_seconds=1800">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pineda-Dev&layout=compact&theme=dark&cache_seconds=1800" width="420">
-    </td>
-  </tr>
-</table>
