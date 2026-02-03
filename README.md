@@ -4,7 +4,9 @@
 
 <div align="center">
   <blockquote>
-    Versatile Junior Professional specializing in Data Analysis, QA, and Software Development. Expert in automating processes and developing scripts to drive efficiency. Technical stack includes SQL, Power BI, Python, and Node.js, with hands-on experience in RESTful APIs and modern web frameworks like Vue. Experienced in delivering high-quality IT solutions and QA testing across diverse freelance and corporate projects.
+    Computer Science Engineering student and versatile Software Developer dedicated to bridging the gap between traditional development and Artificial Intelligence. I specialize in building intuitive user interfaces, ensuring software quality through QA, and optimizing workflows via AI-powered automation.
+
+My approach combines a strong foundation in Frontend and Backend technologies with a proactive mindset for AI training and process innovation. I am driven by continuous learning and a commitment to high-quality, scalable solutions. Whether collaborating in agile teams or developing autonomous agents, I focus on delivering impact through technology.
   </blockquote>
 </div>
 
